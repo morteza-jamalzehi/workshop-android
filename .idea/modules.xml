@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backbase-3.4.0/backbase-3.4.0.iml" filepath="$PROJECT_DIR$/backbase-3.4.0/backbase-3.4.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backbase-82/backbase-82.iml" filepath="$PROJECT_DIR$/backbase-82/backbase-82.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mylibrary/mylibrary.iml" filepath="$PROJECT_DIR$/mylibrary/mylibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/places-client-0.1.0-preview7/places-client-0.1.0-preview7.iml" filepath="$PROJECT_DIR$/places-client-0.1.0-preview7/places-client-0.1.0-preview7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/places-widget-0.1.0-preview24/places-widget-0.1.0-preview24.iml" filepath="$PROJECT_DIR$/places-widget-0.1.0-preview24/places-widget-0.1.0-preview24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product-summary-client-0.1.0-preview8/product-summary-client-0.1.0-preview8.iml" filepath="$PROJECT_DIR$/product-summary-client-0.1.0-preview8/product-summary-client-0.1.0-preview8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product-summary-widget-0.1.0-preview17/product-summary-widget-0.1.0-preview17.iml" filepath="$PROJECT_DIR$/product-summary-widget-0.1.0-preview17/product-summary-widget-0.1.0-preview17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test2/test2.iml" filepath="$PROJECT_DIR$/test2/test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workshop-android.iml" filepath="$PROJECT_DIR$/workshop-android.iml" />
+    </modules>
+  </component>
+</project>

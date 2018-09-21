@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('product-summary-client-0.1.0-preview8.aar'))

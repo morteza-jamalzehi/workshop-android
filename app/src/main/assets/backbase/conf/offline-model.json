@@ -1,0 +1,274 @@
+{
+  "id": "9bd32001-4bf7-4ad9-9b56-f5f16319d1f9",
+  "version": null,
+  "name": "banking-template",
+  "sitemap": [
+    {
+      "name": "navroot_notinmenu",
+      "navPattern": null,
+      "itemType": "LINK",
+      "children": [
+        {
+          "itemRef": "2322b9b8-6b30-4c88-b0ba-7ae2bba2463e",
+          "title": "Products",
+          "href": "/banking-template/productsummary",
+          "itemType": "page",
+          "children": []
+        },
+        {
+          "itemRef": "2322b9b8-6b30-4c88-b0ba-7ae2bba2463f",
+          "title": "Places",
+          "href": "/banking-template/places",
+          "itemType": "page",
+          "children": []
+        },
+        {
+          "itemRef": "e26054f3-7a66-453d-9b6e-720xaaxbzczb",
+          "title": "Welcome",
+          "href": "/banking-template/welcomewidget",
+          "itemType": "page",
+          "children": []
+        },
+
+
+        {
+          "itemRef": "e26054f3-7a66-453d-9b6e-720xaaxbzcxb",
+          "title": "mSample",
+          "href": "/banking-template/sample",
+          "itemType": "page",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "navroot_mainmenu",
+      "navPattern": null,
+      "itemType": "LINK",
+      "children": []
+    }
+  ],
+  "shortName": null,
+  "description": null,
+  "author": null,
+  "authorHref": null,
+  "authorEmail": null,
+  "icons": [],
+  "preferences": [
+    {
+      "name": "title",
+      "value": "Banking Template",
+      "readonly": true
+    },
+    {
+      "name": "publishChains",
+      "value": "Self - Direct",
+      "readonly": true
+    }
+  ],
+  "license": null,
+  "licenseHref": null,
+  "tags": [],
+  "pages": [
+    {
+      "id": "e26054f3-7a66-453d-9b6e-720xaaxbzczb",
+      "viewmodes": [
+        "navigation"
+      ],
+      "name": "Welcome",
+      "shortName": null,
+      "description": null,
+      "preferences": [
+        {
+          "name": "title",
+          "value": "Custom Widget",
+          "readonly": true
+        },
+        {
+          "name": "navigation",
+          "value": "flow.open.welcome"
+        },
+        {
+          "name": "native",
+          "value": "SampleWidgetWidget",
+          "readonly": true
+        },
+        {
+          "name": "native.view",
+          "value": "CustomSampleWidgetView",
+          "readonly": true
+        },
+        {
+          "name": "native.package",
+          "value": "backbase.com.workshopandroid.widget.sample_widget.widget.views",
+          "readonly": true
+        }
+      ],
+      "icons": [],
+      "tags": [
+        {
+          "name": "cxpManager",
+          "type": "regular"
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "2322b9b8-6b30-4c88-b0ba-7ae2bba2463e",
+      "viewmodes": [
+        "navigation"
+      ],
+      "name": "Products",
+      "shortName": null,
+      "description": null,
+      "preferencesSitemaps": [
+        {
+          "name": "title",
+          "value": "Products",
+          "readonly": true
+        },
+        {
+          "name": "native",
+          "value": "ProductSummaryWidget",
+          "readonly": true
+        },
+        {
+          "name": "native.view",
+          "value": "CustomProductSummaryWidgetView",
+          "readonly": true
+        },
+        {
+          "name": "native.package",
+          "value": "backbase.com.workshopandroid.widget.customproductsummary",
+          "readonly": true
+        },
+        {
+          "name": "navigation",
+          "value": "flow.open.productsummary"
+        }
+      ],
+      "icons": [],
+      "tags": [
+        {
+          "name": "cxpManager",
+          "type": "regular"
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "2322b9b8-6b30-4c88-b0ba-7ae2bba2463f",
+      "viewmodes": [
+        "navigation"
+      ],
+      "name": "Places",
+      "shortName": null,
+      "description": null,
+      "preferences": [
+        {
+          "name": "title",
+          "value": "Placessss",
+          "readonly": true
+        },
+        {
+          "name": "native",
+          "value": "PlacesWidget",
+          "readonly": true
+        },
+        {
+          "name": "native.view",
+          "value": "DefaultPlacesWidgetView",
+          "readonly": true
+        },
+        {
+          "name": "native.package",
+          "value": "com.backbase.android.widget.places.view",
+          "readonly": true
+        },
+        {
+          "name": "search",
+          "value": "places"
+        },
+        {
+          "name": "searchDataSourceClass",
+          "value": "LocalSearchDataSource"
+        },
+        {
+          "name": "searchDataSourcePackage",
+          "value": "backbase.com.workshopandroid.service"
+        },
+        {
+          "name": "longitude",
+          "value": "4.2980758"
+        },
+        {
+          "name": "latitude",
+          "value": "52.0703388"
+        },
+        {
+          "name": "radius",
+          "value": "1"
+        },
+        {
+          "name": "navigation",
+          "value": "flow.open.places"
+        }
+      ],
+      "icons": [],
+      "tags": [
+        {
+          "name": "cxpManager",
+          "type": "regular"
+        }
+      ],
+      "children": []
+    },
+
+    {
+      "id": "e26054f3-7a66-453d-9b6e-720xaaxbzcxb",
+      "viewmodes": [
+        "navigation"
+      ],
+      "name": "mSample",
+      "shortName": null,
+      "description": null,
+      "preferences": [
+        {
+          "name": "title",
+          "value": "mSample Widget",
+          "readonly": true
+        },
+        {
+          "name": "navigation",
+          "value": "flow.open.sample"
+        },
+        {
+          "name": "native",
+
+          "value": "LoginWidget",
+          "readonly": true
+        },
+        {
+          "name": "native.view",
+
+          "value": "RetailLoginView",
+          "readonly": true
+        },
+        {
+          "name": "native.package",
+
+          "value": "backbase.com.workshopandroid.widget.morteza_sample_widget.view",
+          "readonly": true
+        }
+      ],
+      "icons": [],
+      "tags": [
+        {
+          "name": "cxpManager",
+          "type": "regular"
+        }
+      ],
+      "children": []
+    }
+
+  ]
+}

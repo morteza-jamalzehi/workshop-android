@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Workshop Android Native</string>
+
+    <string name="title_product_summary">Product Summary</string>
+    <string name="title_places">Places</string>
+    <string name="title_welcome">Welcome</string>
+
+</resources>

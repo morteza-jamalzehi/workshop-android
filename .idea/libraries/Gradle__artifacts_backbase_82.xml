@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:backbase-82">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/backbase-82.aar/08d952ae9c99f92db02155e6aa8caf63/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/backbase-82.aar/08d952ae9c99f92db02155e6aa8caf63/jars/libs/commons-lang3-3.4.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/backbase-82.aar/08d952ae9c99f92db02155e6aa8caf63/jars/libs/rootbeer_0_5.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/backbase-82.aar/08d952ae9c99f92db02155e6aa8caf63/jars/libs/cwac-security-0.5.2.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/backbase-82.aar/08d952ae9c99f92db02155e6aa8caf63/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

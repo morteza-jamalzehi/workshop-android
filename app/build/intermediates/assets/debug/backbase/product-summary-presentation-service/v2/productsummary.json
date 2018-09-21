@@ -1,0 +1,183 @@
+{
+  "aggregatedBalance": {
+    "value": "126692.78",
+    "currency": "EUR"
+  },
+  "currentAccounts": {
+    "name": "Current Account",
+    "products": [
+      {
+        "id": "1cdb2224-8926-4b4d-a99f-1c9dfbbb4699",
+        "name": "Mr and Mrs J. Smith",
+        "alias": "Our joined account",
+        "bookedBalance": "-300.00",
+        "availableBalance": "200.00",
+        "creditLimit": "500.00",
+        "currency": "EUR",
+        "IBAN": "NL25TRIO0253844320",
+        "BBAN": "280680451",
+        "externalTransferAllowed": true,
+        "urgentTransferAllowed": true,
+        "crossCurrencyAllowed": true,
+        "additions": { "icon": "productIconShared" }
+      },
+      {
+        "id": "1cdb2224-8926-4b4d-a99f-1c9dfbbb4699",
+        "name": "Mr J. Jones",
+        "alias": "Our joined account",
+        "bookedBalance": "1000.00",
+        "availableBalance": "1500.00",
+        "creditLimit": "500.00",
+        "currency": "EUR",
+        "IBAN": "NL25TRIO0253844320",
+        "BBAN": "280680451",
+        "externalTransferAllowed": true,
+        "urgentTransferAllowed": true,
+        "crossCurrencyAllowed": true
+      },
+      {
+        "id": "1cdb2224-8926-4b4d-a99f-1c9dfbbb4699",
+        "name": "Ms A. Wolk",
+        "alias": "Our joined account",
+        "bookedBalance": "1000.00",
+        "availableBalance": "1500.00",
+        "creditLimit": "500.00",
+        "currency": "EUR",
+        "IBAN": "NL25TRIO0253844320",
+        "BBAN": "280680451",
+        "externalTransferAllowed": true,
+        "urgentTransferAllowed": true,
+        "crossCurrencyAllowed": true
+      }
+    ],
+    "aggregatedBalance": {
+      "value": "-600.00",
+      "currency": "EUR"
+    }
+  },
+  "savingsAccounts": {
+    "name": "Savings Account",
+    "products": [
+      {
+        "id": "3cdb2224-8926-4b4d-a99f-1c9dfbbb4699",
+        "name": "Smith Bonus Savings",
+        "productKindName":"Savings Account",
+        "productTypeName":"productTypeName",
+        "bookedBalance": "5500.00",
+        "accruedInterest": 36.16,
+        "currency": "EUR",
+        "BBAN": "22-44-33-1556",
+        "IBAN": "NL81TRIO0212471066",
+        "externalTransferAllowed": false,
+        "crossCurrencyAllowed": true,
+        "additions": { "icon": "productIconSavings" }
+      }
+    ],
+    "aggregatedBalance": {
+      "value": "5500.00",
+      "currency": "EUR"
+    }
+  },
+  "termDeposits": {
+    "name": "Term Deposit",
+    "products": [
+      {
+        "id": "4cdb2224-8926-4b4d-a99f-1c9dfbbb4699",
+        "name": "3 Month Deposit",
+        "principalAmount": "10000.00",
+        "accruedInterest": 12.32,
+        "currency": "EUR",
+        "externalTransferAllowed": false,
+        "crossCurrencyAllowed": false,
+        "additions": { "icon": "productIconSavings" }
+      }
+    ],
+    "aggregatedBalance": {
+      "value": "10000.00",
+      "currency": "EUR"
+    }
+  },
+  "loans": {
+    "name": "Loan",
+    "products": [
+      {
+        "id": "5cdb2224-8926-4b4d-a99f-1c9dfbbb4699",
+        "name": "Short term variable interest",
+        "bookedBalance": "150000.00",
+        "principalAmount": "200000.00",
+        "currency": "EUR",
+        "externalTransferAllowed": false,
+        "crossCurrencyAllowed": false,
+        "additions": { "icon": "productIconLoan" }
+      }
+    ],
+    "aggregatedBalance": {
+      "value": "150000.00",
+      "currency": "EUR"
+    }
+  },
+  "creditCards": {
+    "name": "Credit Card",
+    "products": [
+      {
+        "id": "6cdb2224-8926-4b4d-a99f-1c9dfbbb4699",
+        "name": "Jason Smith",
+        "externalTransferAllowed": true,
+        "crossCurrencyAllowed": true,
+        "productKindName":"Credit Card",
+        "productTypeName":"productTypeName",
+        "currency": "EUR",
+        "bookedBalance": "1250.00",
+        "availableBalance": "3750.00",
+        "creditLimit": "5000.00",
+        "number": "1234",
+        "urgentTransferAllowed": true,
+        "additions": { "icon": "productIconCard" }
+      }
+    ],
+    "aggregatedBalance": {
+      "value": "1250.00",
+      "currency": "EUR"
+    }
+  },
+  "debitCards": {
+    "name": "Debit Card",
+    "products": [
+      {
+        "id": "7cdb2224-8926-4b4d-a99f-1c9dfbbb4699",
+        "name": "Mr J. Smith",
+        "externalTransferAllowed": false,
+        "crossCurrencyAllowed": false,
+        "productKindName":"Debit Card",
+        "productTypeName":"productTypeName",
+        "number": "1234",
+        "urgentTransferAllowed": true,
+        "additions": { "icon": "productIconCard" }
+      }
+    ],
+    "aggregatedBalance": {
+      "value": "1250.00",
+      "currency": "EUR"
+    }
+  },
+  "investmentAccounts": {
+    "name": "Investment Account",
+    "products": [
+      {
+        "id": "8cdb2224-8926-4b4d-a99f-1c9dfbbb4699",
+        "name": "Mr J. Smith Execution only portfolio",
+        "externalTransferAllowed": false,
+        "crossCurrencyAllowed": false,
+        "productKindName":"Investment Account",
+        "productTypeName":"productTypeName",
+        "currency": "EUR",
+        "currentInvestmentValue": "75789.00",
+        "urgentTransferAllowed": true
+      }
+    ],
+    "aggregatedBalance": {
+      "value": "75789.00",
+      "currency": "EUR"
+    }
+  }
+}

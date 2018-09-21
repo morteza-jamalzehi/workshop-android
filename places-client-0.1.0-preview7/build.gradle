@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('places-client-0.1.0-preview7.aar'))

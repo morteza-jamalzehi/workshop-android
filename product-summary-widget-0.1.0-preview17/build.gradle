@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('product-summary-widget-0.1.0-preview17.aar'))

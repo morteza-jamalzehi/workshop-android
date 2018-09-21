@@ -1,0 +1,56 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 27
+    buildToolsVersion "27.0.3"
+
+    defaultConfig {
+        applicationId "backbase.com.workshopandroid"
+        minSdkVersion 19
+        targetSdkVersion 27
+        versionCode 1
+        versionName "1.0.0"
+        vectorDrawables.useSupportLibrary = true
+    }
+    buildTypes {
+        debug {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    dataBinding {
+        enabled = true
+    }
+
+    dexOptions {
+        javaMaxHeapSize "4g"
+    }
+}
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    implementation 'com.android.support:appcompat-v7:27.1.1'
+    implementation 'com.android.support:recyclerview-v7:27.1.1'
+    implementation 'com.android.support:cardview-v7:27.1.1'
+    implementation 'com.android.support:design:27.1.1'
+    implementation 'com.google.android.gms:play-services-maps:11.4.2'
+    implementation 'com.google.android.gms:play-services-location:11.4.2'
+    implementation 'com.google.android.gms:play-services-places:11.4.2'
+    implementation 'com.google.maps.android:android-maps-utils:0.5'
+    implementation 'com.android.support:cardview-v7:27.1.1'
+    implementation 'de.hdodenhof:circleimageview:1.2.1'
+    implementation 'com.google.code.gson:gson:2.8.1'
+    implementation 'io.reactivex:rxjava:1.1.8'
+    implementation 'com.android.support.constraint:constraint-layout:1.0.2'
+    testImplementation 'junit:junit:4.12'
+    testImplementation 'org.robolectric:robolectric:3.4.2'
+    testImplementation 'org.jmockit:jmockit:1.8'
+    testImplementation 'org.mockito:mockito-core:2.10.0'
+    implementation project(':places-client-0.1.0-preview7')
+    implementation project(':places-widget-0.1.0-preview24')
+    implementation project(':product-summary-client-0.1.0-preview8')
+    implementation project(':product-summary-widget-0.1.0-preview17')
+    implementation project(':backbase-82')
+    implementation project(':test')
+}

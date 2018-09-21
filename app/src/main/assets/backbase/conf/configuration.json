@@ -1,0 +1,19 @@
+{
+  "development": {
+    "debugEnable": true,
+    "allowUntrustedCertificates": true
+  },
+  "backbase": {
+    "localModelPath": "$(contextRoot)/conf/offline-model.json",
+    "experience": "workshop-android",
+    "serverURL": "https://",
+    "version": "6.0.4"
+  },
+  "security": {
+    "sslPinning": {
+      "checkChain": false
+    }
+  },
+  "template": {
+  }
+}

@@ -1,0 +1,1 @@
+include ':app', ':backbase-3.4.0', ':product-summary-client-0.1.0-preview8', ':places-client-0.1.0-preview7', ':places-widget-0.1.0-preview24', ':product-summary-widget-0.1.0-preview17', ':backbase-82', ':test', ':test2', ':mylibrary', ':test2'

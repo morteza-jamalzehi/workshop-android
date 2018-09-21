@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_product_summary"
+        android:icon="@drawable/ic_credit_card_black_24dp"
+        android:title="@string/title_product_summary" />
+
+    <item
+        android:id="@+id/navigation_places"
+        android:icon="@drawable/ic_pin_drop_black_24dp"
+        android:title="@string/title_places" />
+
+    <item
+        android:id="@+id/navigation_welcome"
+        android:icon="@drawable/ic_mail_outline_black_24dp"
+        android:title="@string/title_welcome" />
+    <item
+        android:id="@+id/navigation_sample"
+        android:icon="@drawable/ic_mail_outline_black_24dp"
+        android:title="sample" />
+
+</menu>

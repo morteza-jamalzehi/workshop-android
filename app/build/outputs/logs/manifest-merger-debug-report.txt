@@ -1,0 +1,281 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Temp\workshop-android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from E:\Temp\workshop-android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from E:\Temp\workshop-android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from E:\Temp\workshop-android\app\src\main\AndroidManifest.xml:1:1-27:12
+MERGED from [com.android.databinding:adapters:3.1.4] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\adapters-3.1.4.aar\7cb854d889c0956f1ecfcc55ae678a7c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.databinding:library:3.1.4] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\library-3.1.4.aar\27c037a85bc2adcd7a09f228a1e65ca9\AndroidManifest.xml:17:1-24:12
+MERGED from [:test] E:\Temp\workshop-android\test\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\61cf04cb6e8ff80c1fbcfc4817c94abf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\b16be498c3d59573c9ae33304ef1eb4e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\0f3c73e035d3814de2e9e9162c9be681\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\5d5cd619769a722efccd85d701f6c06e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-places:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-places-11.4.2.aar\deef12fe9aea39fac3e0eedcf82c6253\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-maps:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.4.2.aar\2cf11b3b2f6932ab423bb142543d2271\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-location:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-location-11.4.2.aar\fa1d54e3b932672c245a8d018d52512b\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\55f12f39ad808ea3dc6c4e5fe5e33390\AndroidManifest.xml:2:1-13:12
+MERGED from [de.hdodenhof:circleimageview:1.2.1] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\circleimageview-1.2.1.aar\0b8d5f750235a70b8ca8f73d02f5041e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\da68a163e735757bfb66711661db363e\AndroidManifest.xml:2:1-11:12
+MERGED from [:places-client-0.1.0-preview7] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\places-client-0.1.0-preview7.aar\87b0b2476b804a2a98fc76ec48fa51a1\AndroidManifest.xml:2:1-17:12
+MERGED from [:places-widget-0.1.0-preview24] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\places-widget-0.1.0-preview24.aar\c0e6e48521b68d1c83e638ee491f9c09\AndroidManifest.xml:2:1-24:12
+MERGED from [:product-summary-client-0.1.0-preview8] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\product-summary-client-0.1.0-preview8.aar\11f2e090a28c7eb45f8a95f4918d7d8b\AndroidManifest.xml:2:1-17:12
+MERGED from [:product-summary-widget-0.1.0-preview17] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\product-summary-widget-0.1.0-preview17.aar\8c7340b6bc35a5004e256a349e86b6ba\AndroidManifest.xml:2:1-17:12
+MERGED from [:backbase-82] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\backbase-82.aar\08d952ae9c99f92db02155e6aa8caf63\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-base:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.2.aar\0f928fcc4ebc529994416fac7872a7d6\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.4.2.aar\1404fdd6a52176491cabe85709188cee\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.2.aar\1f9a99ae3ea4be4b18aeecd0d418b35b\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\a0f008bcee932b340c0a60cf3747856a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\d445811e7bb47f73c64d43bdce303963\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\0f6c86c830f9f7315804c36d825fc4af\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\753f545e62200888af386f3b80d808da\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8f98b8deb2b839454550ab8436eeec59\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\f43b845a63feb4b8d76cf5def515a079\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\464f67145b7e3019c2236a225f6a7b90\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\ebc1bb8ff9e13f787fb516fdaeec1185\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\4981806faf6dbfca905cde987a660ce5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0338d97f8cfea5823915a8622ca0c6a9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\6b81cfc1ab2fed31b80fec603dae7c0e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a0f9f81c7bc1e5658351f20c13e0696e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps-license:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.4.2.aar\fed6c0b8ca83f37d0d25232881b46b4e\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-location-license:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.4.2.aar\e52224cc856756edee94581dc53b7d42\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-places-license:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-places-license-11.4.2.aar\996a22823a9697745764132dc8da1b75\AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4a43f791558b58430f44e52f7fb40e5a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base-license:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.4.2.aar\f76272c6ed31e40aceff643460b105ba\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.4.2.aar\9eec94dabe14bcead71b7293a3a02e0d\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.4.2.aar\9ce630036eba9a542c92ef9acc8cc0b2\AndroidManifest.xml:2:1-6:12
+INJECTED from E:\Temp\workshop-android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from E:\Temp\workshop-android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from E:\Temp\workshop-android\app\src\main\AndroidManifest.xml:1:1-27:12
+	package
+		ADDED from E:\Temp\workshop-android\app\src\main\AndroidManifest.xml:2:5-43
+		INJECTED from E:\Temp\workshop-android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Temp\workshop-android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Temp\workshop-android\app\src\main\AndroidManifest.xml
+		ADDED from E:\Temp\workshop-android\app\src\main\AndroidManifest.xml:1:1-27:12
+		INJECTED from E:\Temp\workshop-android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Temp\workshop-android\app\src\main\AndroidManifest.xml
+		ADDED from E:\Temp\workshop-android\app\src\main\AndroidManifest.xml:1:1-27:12
+		INJECTED from E:\Temp\workshop-android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Temp\workshop-android\app\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from E:\Temp\workshop-android\app\src\main\AndroidManifest.xml:4:5-26:19
+MERGED from [com.google.android.gms:play-services-places:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-places-11.4.2.aar\deef12fe9aea39fac3e0eedcf82c6253\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-places-11.4.2.aar\deef12fe9aea39fac3e0eedcf82c6253\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.4.2.aar\2cf11b3b2f6932ab423bb142543d2271\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.4.2.aar\2cf11b3b2f6932ab423bb142543d2271\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-location:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-location-11.4.2.aar\fa1d54e3b932672c245a8d018d52512b\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-location-11.4.2.aar\fa1d54e3b932672c245a8d018d52512b\AndroidManifest.xml:4:5-19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\55f12f39ad808ea3dc6c4e5fe5e33390\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\55f12f39ad808ea3dc6c4e5fe5e33390\AndroidManifest.xml:7:5-11:19
+MERGED from [de.hdodenhof:circleimageview:1.2.1] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\circleimageview-1.2.1.aar\0b8d5f750235a70b8ca8f73d02f5041e\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:1.2.1] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\circleimageview-1.2.1.aar\0b8d5f750235a70b8ca8f73d02f5041e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\da68a163e735757bfb66711661db363e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\da68a163e735757bfb66711661db363e\AndroidManifest.xml:9:5-20
+MERGED from [:places-client-0.1.0-preview7] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\places-client-0.1.0-preview7.aar\87b0b2476b804a2a98fc76ec48fa51a1\AndroidManifest.xml:11:5-15:19
+MERGED from [:places-client-0.1.0-preview7] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\places-client-0.1.0-preview7.aar\87b0b2476b804a2a98fc76ec48fa51a1\AndroidManifest.xml:11:5-15:19
+MERGED from [:places-widget-0.1.0-preview24] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\places-widget-0.1.0-preview24.aar\c0e6e48521b68d1c83e638ee491f9c09\AndroidManifest.xml:18:5-22:19
+MERGED from [:places-widget-0.1.0-preview24] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\places-widget-0.1.0-preview24.aar\c0e6e48521b68d1c83e638ee491f9c09\AndroidManifest.xml:18:5-22:19
+MERGED from [:product-summary-client-0.1.0-preview8] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\product-summary-client-0.1.0-preview8.aar\11f2e090a28c7eb45f8a95f4918d7d8b\AndroidManifest.xml:11:5-15:19
+MERGED from [:product-summary-client-0.1.0-preview8] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\product-summary-client-0.1.0-preview8.aar\11f2e090a28c7eb45f8a95f4918d7d8b\AndroidManifest.xml:11:5-15:19
+MERGED from [:product-summary-widget-0.1.0-preview17] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\product-summary-widget-0.1.0-preview17.aar\8c7340b6bc35a5004e256a349e86b6ba\AndroidManifest.xml:11:5-15:19
+MERGED from [:product-summary-widget-0.1.0-preview17] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\product-summary-widget-0.1.0-preview17.aar\8c7340b6bc35a5004e256a349e86b6ba\AndroidManifest.xml:11:5-15:19
+MERGED from [:backbase-82] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\backbase-82.aar\08d952ae9c99f92db02155e6aa8caf63\AndroidManifest.xml:15:5-20
+MERGED from [:backbase-82] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\backbase-82.aar\08d952ae9c99f92db02155e6aa8caf63\AndroidManifest.xml:15:5-20
+MERGED from [com.google.android.gms:play-services-base:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.2.aar\0f928fcc4ebc529994416fac7872a7d6\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.2.aar\0f928fcc4ebc529994416fac7872a7d6\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.4.2.aar\1404fdd6a52176491cabe85709188cee\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.4.2.aar\1404fdd6a52176491cabe85709188cee\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.2.aar\1f9a99ae3ea4be4b18aeecd0d418b35b\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.2.aar\1f9a99ae3ea4be4b18aeecd0d418b35b\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-maps-license:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.4.2.aar\fed6c0b8ca83f37d0d25232881b46b4e\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.4.2.aar\fed6c0b8ca83f37d0d25232881b46b4e\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.4.2.aar\e52224cc856756edee94581dc53b7d42\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.4.2.aar\e52224cc856756edee94581dc53b7d42\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-places-license:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-places-license-11.4.2.aar\996a22823a9697745764132dc8da1b75\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-places-license:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-places-license-11.4.2.aar\996a22823a9697745764132dc8da1b75\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.4.2.aar\f76272c6ed31e40aceff643460b105ba\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.4.2.aar\f76272c6ed31e40aceff643460b105ba\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.4.2.aar\9eec94dabe14bcead71b7293a3a02e0d\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.4.2.aar\9eec94dabe14bcead71b7293a3a02e0d\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.4.2.aar\9ce630036eba9a542c92ef9acc8cc0b2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.4.2.aar\9ce630036eba9a542c92ef9acc8cc0b2\AndroidManifest.xml:5:5-20
+	android:supportsRtl
+		ADDED from E:\Temp\workshop-android\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from E:\Temp\workshop-android\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from E:\Temp\workshop-android\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from E:\Temp\workshop-android\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from E:\Temp\workshop-android\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from E:\Temp\workshop-android\app\src\main\AndroidManifest.xml:11:9-40
+	android:name
+		ADDED from E:\Temp\workshop-android\app\src\main\AndroidManifest.xml:5:9-44
+activity#backbase.com.workshopandroid.SplashActivity
+ADDED from E:\Temp\workshop-android\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from E:\Temp\workshop-android\app\src\main\AndroidManifest.xml:12:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Temp\workshop-android\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from E:\Temp\workshop-android\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from E:\Temp\workshop-android\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Temp\workshop-android\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from E:\Temp\workshop-android\app\src\main\AndroidManifest.xml:16:27-74
+activity#backbase.com.workshopandroid.MainActivity
+ADDED from E:\Temp\workshop-android\app\src\main\AndroidManifest.xml:19:9-21:48
+	android:label
+		ADDED from E:\Temp\workshop-android\app\src\main\AndroidManifest.xml:21:13-45
+	android:name
+		ADDED from E:\Temp\workshop-android\app\src\main\AndroidManifest.xml:20:13-41
+meta-data#com.google.android.geo.API_KEY
+ADDED from E:\Temp\workshop-android\app\src\main\AndroidManifest.xml:23:9-25:55
+	android:value
+		ADDED from E:\Temp\workshop-android\app\src\main\AndroidManifest.xml:25:13-52
+	android:name
+		ADDED from E:\Temp\workshop-android\app\src\main\AndroidManifest.xml:24:13-58
+uses-sdk
+INJECTED from E:\Temp\workshop-android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Temp\workshop-android\app\src\main\AndroidManifest.xml
+INJECTED from E:\Temp\workshop-android\app\src\main\AndroidManifest.xml
+MERGED from [com.android.databinding:adapters:3.1.4] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\adapters-3.1.4.aar\7cb854d889c0956f1ecfcc55ae678a7c\AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:adapters:3.1.4] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\adapters-3.1.4.aar\7cb854d889c0956f1ecfcc55ae678a7c\AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.1.4] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\library-3.1.4.aar\27c037a85bc2adcd7a09f228a1e65ca9\AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.1.4] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\library-3.1.4.aar\27c037a85bc2adcd7a09f228a1e65ca9\AndroidManifest.xml:22:5-44
+MERGED from [:test] E:\Temp\workshop-android\test\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:test] E:\Temp\workshop-android\test\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\61cf04cb6e8ff80c1fbcfc4817c94abf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\61cf04cb6e8ff80c1fbcfc4817c94abf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\b16be498c3d59573c9ae33304ef1eb4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\b16be498c3d59573c9ae33304ef1eb4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\0f3c73e035d3814de2e9e9162c9be681\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\0f3c73e035d3814de2e9e9162c9be681\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\5d5cd619769a722efccd85d701f6c06e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\5d5cd619769a722efccd85d701f6c06e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-places-11.4.2.aar\deef12fe9aea39fac3e0eedcf82c6253\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-places-11.4.2.aar\deef12fe9aea39fac3e0eedcf82c6253\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.4.2.aar\2cf11b3b2f6932ab423bb142543d2271\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.4.2.aar\2cf11b3b2f6932ab423bb142543d2271\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-location:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-location-11.4.2.aar\fa1d54e3b932672c245a8d018d52512b\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-location-11.4.2.aar\fa1d54e3b932672c245a8d018d52512b\AndroidManifest.xml:3:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\55f12f39ad808ea3dc6c4e5fe5e33390\AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\55f12f39ad808ea3dc6c4e5fe5e33390\AndroidManifest.xml:5:5-43
+MERGED from [de.hdodenhof:circleimageview:1.2.1] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\circleimageview-1.2.1.aar\0b8d5f750235a70b8ca8f73d02f5041e\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:1.2.1] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\circleimageview-1.2.1.aar\0b8d5f750235a70b8ca8f73d02f5041e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\da68a163e735757bfb66711661db363e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\da68a163e735757bfb66711661db363e\AndroidManifest.xml:5:5-7:41
+MERGED from [:places-client-0.1.0-preview7] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\places-client-0.1.0-preview7.aar\87b0b2476b804a2a98fc76ec48fa51a1\AndroidManifest.xml:7:5-9:41
+MERGED from [:places-client-0.1.0-preview7] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\places-client-0.1.0-preview7.aar\87b0b2476b804a2a98fc76ec48fa51a1\AndroidManifest.xml:7:5-9:41
+MERGED from [:places-widget-0.1.0-preview24] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\places-widget-0.1.0-preview24.aar\c0e6e48521b68d1c83e638ee491f9c09\AndroidManifest.xml:7:5-9:41
+MERGED from [:places-widget-0.1.0-preview24] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\places-widget-0.1.0-preview24.aar\c0e6e48521b68d1c83e638ee491f9c09\AndroidManifest.xml:7:5-9:41
+MERGED from [:product-summary-client-0.1.0-preview8] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\product-summary-client-0.1.0-preview8.aar\11f2e090a28c7eb45f8a95f4918d7d8b\AndroidManifest.xml:7:5-9:41
+MERGED from [:product-summary-client-0.1.0-preview8] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\product-summary-client-0.1.0-preview8.aar\11f2e090a28c7eb45f8a95f4918d7d8b\AndroidManifest.xml:7:5-9:41
+MERGED from [:product-summary-widget-0.1.0-preview17] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\product-summary-widget-0.1.0-preview17.aar\8c7340b6bc35a5004e256a349e86b6ba\AndroidManifest.xml:7:5-9:41
+MERGED from [:product-summary-widget-0.1.0-preview17] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\product-summary-widget-0.1.0-preview17.aar\8c7340b6bc35a5004e256a349e86b6ba\AndroidManifest.xml:7:5-9:41
+MERGED from [:backbase-82] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\backbase-82.aar\08d952ae9c99f92db02155e6aa8caf63\AndroidManifest.xml:7:5-9:41
+MERGED from [:backbase-82] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\backbase-82.aar\08d952ae9c99f92db02155e6aa8caf63\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-base:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.2.aar\0f928fcc4ebc529994416fac7872a7d6\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.2.aar\0f928fcc4ebc529994416fac7872a7d6\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.4.2.aar\1404fdd6a52176491cabe85709188cee\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.4.2.aar\1404fdd6a52176491cabe85709188cee\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.2.aar\1f9a99ae3ea4be4b18aeecd0d418b35b\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.2.aar\1f9a99ae3ea4be4b18aeecd0d418b35b\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\a0f008bcee932b340c0a60cf3747856a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\a0f008bcee932b340c0a60cf3747856a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\d445811e7bb47f73c64d43bdce303963\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\d445811e7bb47f73c64d43bdce303963\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\0f6c86c830f9f7315804c36d825fc4af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\0f6c86c830f9f7315804c36d825fc4af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\753f545e62200888af386f3b80d808da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\753f545e62200888af386f3b80d808da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8f98b8deb2b839454550ab8436eeec59\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8f98b8deb2b839454550ab8436eeec59\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\f43b845a63feb4b8d76cf5def515a079\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\f43b845a63feb4b8d76cf5def515a079\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\464f67145b7e3019c2236a225f6a7b90\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\464f67145b7e3019c2236a225f6a7b90\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\ebc1bb8ff9e13f787fb516fdaeec1185\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\ebc1bb8ff9e13f787fb516fdaeec1185\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\4981806faf6dbfca905cde987a660ce5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\4981806faf6dbfca905cde987a660ce5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0338d97f8cfea5823915a8622ca0c6a9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0338d97f8cfea5823915a8622ca0c6a9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\6b81cfc1ab2fed31b80fec603dae7c0e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\6b81cfc1ab2fed31b80fec603dae7c0e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a0f9f81c7bc1e5658351f20c13e0696e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a0f9f81c7bc1e5658351f20c13e0696e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.4.2.aar\fed6c0b8ca83f37d0d25232881b46b4e\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.4.2.aar\fed6c0b8ca83f37d0d25232881b46b4e\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.4.2.aar\e52224cc856756edee94581dc53b7d42\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.4.2.aar\e52224cc856756edee94581dc53b7d42\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-places-license:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-places-license-11.4.2.aar\996a22823a9697745764132dc8da1b75\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-places-license:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-places-license-11.4.2.aar\996a22823a9697745764132dc8da1b75\AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4a43f791558b58430f44e52f7fb40e5a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4a43f791558b58430f44e52f7fb40e5a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.4.2.aar\f76272c6ed31e40aceff643460b105ba\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.4.2.aar\f76272c6ed31e40aceff643460b105ba\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.4.2.aar\9eec94dabe14bcead71b7293a3a02e0d\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.4.2.aar\9eec94dabe14bcead71b7293a3a02e0d\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.4.2.aar\9ce630036eba9a542c92ef9acc8cc0b2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.4.2.aar\9ce630036eba9a542c92ef9acc8cc0b2\AndroidManifest.xml:4:5-43
+INJECTED from E:\Temp\workshop-android\app\src\main\AndroidManifest.xml
+INJECTED from E:\Temp\workshop-android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Temp\workshop-android\app\src\main\AndroidManifest.xml
+		ADDED from E:\Temp\workshop-android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Temp\workshop-android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Temp\workshop-android\app\src\main\AndroidManifest.xml
+		ADDED from E:\Temp\workshop-android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Temp\workshop-android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.4.2.aar\2cf11b3b2f6932ab423bb142543d2271\AndroidManifest.xml:19:5-78
+MERGED from [:backbase-82] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\backbase-82.aar\08d952ae9c99f92db02155e6aa8caf63\AndroidManifest.xml:12:5-79
+MERGED from [:backbase-82] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\backbase-82.aar\08d952ae9c99f92db02155e6aa8caf63\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.4.2.aar\2cf11b3b2f6932ab423bb142543d2271\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.4.2.aar\2cf11b3b2f6932ab423bb142543d2271\AndroidManifest.xml:20:5-66
+MERGED from [:backbase-82] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\backbase-82.aar\08d952ae9c99f92db02155e6aa8caf63\AndroidManifest.xml:11:5-67
+MERGED from [:backbase-82] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\backbase-82.aar\08d952ae9c99f92db02155e6aa8caf63\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.4.2.aar\2cf11b3b2f6932ab423bb142543d2271\AndroidManifest.xml:20:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.4.2.aar\2cf11b3b2f6932ab423bb142543d2271\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.4.2.aar\2cf11b3b2f6932ab423bb142543d2271\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.4.2.aar\2cf11b3b2f6932ab423bb142543d2271\AndroidManifest.xml:21:52-75
+meta-data#com.google.android.gms.version
+ADDED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\55f12f39ad808ea3dc6c4e5fe5e33390\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.android.gms:play-services-basement:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.2.aar\1f9a99ae3ea4be4b18aeecd0d418b35b\AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.2.aar\1f9a99ae3ea4be4b18aeecd0d418b35b\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\55f12f39ad808ea3dc6c4e5fe5e33390\AndroidManifest.xml:10:13-66
+	android:name
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\55f12f39ad808ea3dc6c4e5fe5e33390\AndroidManifest.xml:9:13-58
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [:places-widget-0.1.0-preview24] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\places-widget-0.1.0-preview24.aar\c0e6e48521b68d1c83e638ee491f9c09\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from [:places-widget-0.1.0-preview24] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\places-widget-0.1.0-preview24.aar\c0e6e48521b68d1c83e638ee491f9c09\AndroidManifest.xml:16:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:backbase-82] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\backbase-82.aar\08d952ae9c99f92db02155e6aa8caf63\AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from [:backbase-82] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\backbase-82.aar\08d952ae9c99f92db02155e6aa8caf63\AndroidManifest.xml:13:22-73
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.2.aar\0f928fcc4ebc529994416fac7872a7d6\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.2.aar\0f928fcc4ebc529994416fac7872a7d6\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.2.aar\0f928fcc4ebc529994416fac7872a7d6\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.4.2] C:\Users\Morteza\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.2.aar\0f928fcc4ebc529994416fac7872a7d6\AndroidManifest.xml:19:19-85
